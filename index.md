@@ -12,8 +12,7 @@ The question is: **what do you hear?**
 
 C/O:
 lakonie(X)email.cz
-
-[https://talkistrouble.bandcamp.com]
+[bandcamp](https://talkistrouble.bandcamp.com)
 
 
 [Link](url) and ![Image](src)
