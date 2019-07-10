@@ -15,6 +15,6 @@ lakonie(X)email.cz
 
 [bandcamp](https://talkistrouble.bandcamp.com)
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2082665026/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://talkistrouble.bandcamp.com/album/regres-ep">Regres EP by TALK=TROUBLE</a></iframe>
+<bandcamp-player albumid="2263483982" size="large" bgcolor="000000" linkcolor="0687f5"></bandcamp-player>
 
 [Link](url) and ![Image](src)
