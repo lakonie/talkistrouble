@@ -1,7 +1,5 @@
 # TALK=TROUBLE: 
 ## FOUR SONGS FOR SURVIVING HEATWAVES
-![Image](https://github.com/talkistrouble/4sfshw/blob/master/cover2_github.jpg)
-
 ---> [LISTEN HERE](https://talkistrouble.bandcamp.com) <---
 
 These simple sounds were originally recorded during extremely hot nights as an attempt to make myself tired enough to be able to fall asleep. I used a simple modular system, FM synth, sampler, sequencer and an old toy zither. Sometimes I kept the gear right next to my bed and used it till I was half asleep. Later I took the recorded material out. I played it through a loudspeaker at various places (intersection, urban wilderness, rock above a river, open pit lithium mine) and various day and night times and used a portable recorded to record how the replayed songs sound in an outdoors urban/nature setting during extreme heatwaves. The re-amped sounds were then manipulated and blended with the source files using Reaper software and bunch of plugins. That’s what you are listening to right now. 
