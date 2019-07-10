@@ -10,10 +10,9 @@ Some people choose to avoid any non-musical references to make their music pure 
 
 The question is: **what do you hear?**
 
-***Disclaimer:** This is not an attempt to make art. It’s partly an experiment and partly therapy*
+C/O:
+lakonie(X)email.cz
+[https://talkistrouble.bandcamp.com]
 
-
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
