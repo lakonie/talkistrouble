@@ -12,6 +12,7 @@ The question is: **what do you hear?**
 
 C/O:
 lakonie(X)email.cz
+
 [https://talkistrouble.bandcamp.com]
 
 
