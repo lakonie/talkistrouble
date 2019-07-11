@@ -2,7 +2,7 @@
 --> [LISTEN HERE](https://talkistrouble.bandcamp.com)<--<br>
 ![cover](minicover.jpg) 
 
-*"If we cease to listen to sounds and noises and instead listen to our bodies (the importance of which cannot be stressed too greatly), we normally grasp (hear, understand) neither the rhythms nor their associations, which nonetheless constitute us. It is only in suffering that a particular rhythm breaks apart, modified by ilness." - Henri Lefebvre*
+*"If we cease to listen to sounds and noises and instead listen to our bodies (the importance of which cannot be stressed too greatly), we normally grasp (hear, understand) neither the rhythms nor their associations, which nonetheless constitute us. It is only in suffering that a particular rhythm breaks apart, modified by ilness." - Henri Lefebvre, [Rhythmanalysis](https://grrrr.org/data/edu/20110509-cascone/rhythmanalysis_space_time_and.pdf)*
 
 These simple sounds were originally recorded during extremely hot nights as an attempt to make myself tired enough to be able to fall asleep. I used a simple modular system, FM synth, sampler, sequencer and an old toy zither. Sometimes I kept the gear right next to my bed and used it till I was half asleep. Later I took the recorded material out. I played it through a loudspeaker at various places (intersection, urban wilderness, rock above a river, open pit lithium mine) and various day and night times and used a portable device to record how the replayed songs sound in an outdoor urban/nature setting during extreme heatwaves. The re-amped re-recorded sounds were then manipulated and blended with the source files using Reaper software and bunch of plugins. That’s what you are listening to right now. 
 
