@@ -13,6 +13,8 @@ Some people choose to avoid any non-musical references to make their music pure 
 
 The question is: **what do you hear?**
 
+![image](sites.jpg)
+
 *Disclaimer: This is not an attempt to make art. It's partly experiment and partly therapy.*
 
 **C/O:**
