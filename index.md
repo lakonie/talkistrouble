@@ -1,4 +1,3 @@
-### TALK=TROUBLE: 4 Songs For Surviving Heatwaves
 #### EXPLORING URBAN SOUNDS AND ENVIRONMENTAL ANXIENTY IN THE ERA OF CLIMATE BREAKDOWN
 ---> [LISTEN HERE](https://talkistrouble.bandcamp.com) <---
 
