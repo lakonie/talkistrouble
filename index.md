@@ -1,5 +1,7 @@
 #### EXPLORING SOUND, URBAN ALIENTATION AND ENVIRONMENTAL ANXIENTY IN THE ERA OF CLIMATE BREAKDOWN
----> [LISTEN HERE](https://talkistrouble.bandcamp.com) <---
+![cover](minicover.jpg) 
+
+---> [LISTEN HERE](https://talkistrouble.bandcamp.com)<---
 
 *"If we cease to listen to sounds and noises and instead listen to our bodies (the importance of which cannot be stressed too greatly), we normally grasp (hear, understand) neither the rhythms nor their associations, which nonetheless constitute us. It is only in suffering that a particular rhythm breaks apart, modified by ilness." - Henri Lefebvre*
 
