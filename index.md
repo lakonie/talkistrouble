@@ -12,7 +12,7 @@ These simple sounds were originally recorded during extremely hot nights in June
 
 *"Sound not only influences the social, the political, the ethical; it is thanks to sound, among others, that the social, the political, and the ethical can manifest themselves."* - Marcel Cobussen, [Towards a "New" Sonic Ecology](https://cobussenma.files.wordpress.com/2018/10/cobussen-inaugural-text.pdf)
 
-**Is this changing perception of sounds of a city a sign of a new urban alienation? And what is its real source? Is it a physical phenomenon or is it just our anxiety?**
+**Is this changing perception of sounds of a city a sign of a new urban alienation? And what is its real source? Is it a physical phenomenon or is it just our anxiety?** Many scholars suggest that corporations and neoliberal governments control urban space by smart use of sound. But isn't the changing perception of sonic character of a city a sign that we are losing control?
 
 Some people choose to avoid any non-musical and personal references to make their music pure and open to a variety to interpretations. [Roland Barthes](http://www.tbook.constantvzw.org/wp-content/death_authorbarthes.pdf) notoriously called for "The Death of the Author". My idea is exactly the opposite. Can sounds recorded under certain circumstances revoke the atmosphere of a context of creation of a sound if we are given enough information on their origin? **Can a shared environmental anxiety influence the way how we listen to certain recordings?**  
 
